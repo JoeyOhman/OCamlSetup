@@ -43,4 +43,4 @@ To **build and exec**: `dune exec bin/main.exe`
 <br>
 <br>
 
-Partly taken by https://medium.com/@bobbypriambodo/starting-an-ocaml-app-project-using-dune-d4f74e291de8
+Partly taken from [this blog post](https://medium.com/@bobbypriambodo/starting-an-ocaml-app-project-using-dune-d4f74e291de8)
