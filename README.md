@@ -11,7 +11,7 @@ opam switch create . ocaml-variants.4.07.1+mingw64c
 ```
 * Make sure the environment is properly synced: `eval $(opam config env)`
 
-* Install tools, (not sure if necessary): `opam install merlin ocp-indent dune utop`
+* Install tools, (not sure if necessary, especially utop could be skipped): `opam install merlin ocp-indent dune utop`
 
 * Setup *settings.json* and *tasks.json* to use Cygwin terminal (bash, not mintty), and custom build so Ctrl+Shift+B builds and executes the program. 
 
