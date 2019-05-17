@@ -40,5 +40,7 @@ To **build and exec**: `dune exec bin/main.exe`
 
 **Ctrl+Shift+B** will now compile and build the project, and then run the code in *bin/main.ml*! **Yay**
 
+<br>
+<br>
 
 Partly taken by https://medium.com/@bobbypriambodo/starting-an-ocaml-app-project-using-dune-d4f74e291de8
